@@ -335,7 +335,7 @@ span.middot {
 
 .topmargin-lg { margin-top: 80px !important; }
 
-.bottommargin-lg { margin-bottom: 80px !important; }
+.bottommargin-lg { margin-bottom: 0 !important; }
 
 .clear-bottommargin-lg { margin-bottom: -80px !important; }
 
